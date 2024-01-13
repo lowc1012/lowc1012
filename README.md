@@ -2,7 +2,7 @@
 
 My name is WenChih (Ryan) ...
 
-- :zap: I’m a Software Engineer at Fazz Financial Group (https://fazz.com/).
+- :zap: I’m a Software (Platform) Engineer at Fazz Financial Group (https://fazz.com/).
 - :rocket: I love open source and keen on contributing to OSS communities.
-- 🌱 I’m mainly using TypeScript & Java but still learning new things such as Go, K8s and DevOps.
+- 🌱 I am open to trying new things. Currently focus on Platform engineering.
 - 📫 How to reach me: lowc1012@gmail.com
