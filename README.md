@@ -2,7 +2,7 @@
 
 My name is WenChih (Ryan) ...
 
-- :zap: I’m a Software (Platform) Engineer at Fazz Financial Group (https://fazz.com/).
-- :rocket: I love open source and keen on contributing to OSS communities.
-- 🌱 I am open to trying new things. Currently focus on Platform engineering.
-- 📫 How to reach me: lowc1012@gmail.com
+- :zap: I’m a Software Engineer at [StraitsX](https://www.straitsx.com/en) (part of [Fazz Financial Group](https://fazz.com/)).
+- ❤️ I'm interested in contributing to Open-Source communities.
+- :rocket: I'm open to learning new things (Software Dev, Infrastructure, etc)
+- 🌱 Currently focus on DevOps/Platform engineering.
